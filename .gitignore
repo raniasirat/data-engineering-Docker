@@ -1,3 +1,9 @@
+# Parquet output files
+output_day_*.parquet
+
+# Test folder
+test/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
